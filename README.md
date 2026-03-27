@@ -26,7 +26,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## `> whoami`
+### Profile 🙂
 ```yaml
 ┌─────────────────────────────────────────┐
 │  DEVELOPER PROFILE                      │
